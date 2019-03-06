@@ -1,0 +1,16 @@
+body {
+  background-color: lightskyblue;
+}
+h1 {
+  color: blue;
+}
+p {
+  color: darkorchid;
+}
+#p01 {
+  color: darkgoldenrod;
+}
+table, th, td {
+  border: 3px dashed black;
+  border-collapse: collapse;
+}
